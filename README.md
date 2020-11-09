@@ -1,7 +1,7 @@
 ### Welcome to my GitHub page. 
 
 <!--
-**sergioescacs/sergioescacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sergioescacs/sergioescacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 Since I was 12 years old i've been coding in some diferent languages: Java, Javascript, C++ and Python. Now days, I'm still learning new things. 
 
