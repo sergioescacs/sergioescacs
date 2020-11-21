@@ -20,33 +20,18 @@ Since I was 12 years old i've been coding in some diferent languages: **Java**, 
 </br>
 </br>
 
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"></a>
+<a href="https://www.python.org/"><img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396"></a>
+<a href="https://www.javascript.com/"><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-160"><img alt="C++" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C"></a>
+<a href="https://en.wikipedia.org/wiki/HTML5"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"></a>
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+<a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a>
+<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"></a>
+<a href="https://code.visualstudio.com/"><img alt="VisualStudio" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>
 
-  ![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Visual-Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <a href="https://github.com/sergioescacs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sergioescacs&theme=white&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioescacs&theme=white&layout=compact" />
 </a>
-
-</br>
-</br>
-
-[Itchio-store]: https://sergioescacs.itch.io/
-[Codewars]: https://www.codewars.com/users/sergioescacs
-
-[Python]: https://www.python.org/
-[Java]: https://www.java.com/en/
-[C]: https://docs.microsoft.com/en-us/cpp/?view=msvc-160
-[Visual-Studio]: https://code.visualstudio.com/
-[HTML]: https://en.wikipedia.org/wiki/HTML
-[Github]: https://github.com/
-[Git]: https://git-scm.com/
-[Github-user]: https://github.com/sergioescacs/
