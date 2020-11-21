@@ -1,6 +1,6 @@
-## Welcome to my GitHub page! 
+## Welcome to my GitHub page! [<img align="right" alt="Instagram" src="https://img.shields.io/github/followers/sergioescacs?style=social"/>][Github-user]
 
-Since I was 12 years old i've been coding in some diferent languages: **Java**, **Javascript**, **C++** and **Python**. Now days, I'm still learning new things. [<img align="right" alt="Instagram" src="https://img.shields.io/github/followers/sergioescacs?style=social"/>][Github-user]
+Since I was 12 years old i've been coding in some diferent languages: **Java**, **Javascript**, **C++** and **Python**. Now days, I'm still learning new things. 
 
 </br>
 
