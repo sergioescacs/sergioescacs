@@ -35,3 +35,5 @@ Since I was 12 years old i've been coding in some diferent languages: **Java**, 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sergioescacs&theme=white&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioescacs&theme=white&layout=compact" />
 </a>
+
+[Github-user] = "https://github.com/sergioescacs"
