@@ -19,11 +19,11 @@ Since I was 12 years old i've been coding in some diferent languages: **Java**, 
 </br>
 </br>
 
-[<img align="left" alt="Python" src="https://camo.githubusercontent.com/cc663b44f5f2d7e674990fd054d828aae0e30ec8df36768e5f5552978da1cfdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e" target="_blank" />][Python]
-[<img align="left" alt="Java" src="https://camo.githubusercontent.com/8084c05ea61084a30448c5b8f581d0389c7ab4fbf46593e3499e59809b2c6395/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3333333333333f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936"/>][Java]
-[<img align="left" alt="C++" src="https://camo.githubusercontent.com/4dc7017fc8569fee32fcde60bf062d92e127c22e6d136cc41909a6c6786f1c4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3333333333333f7374796c653d666c6174266c6f676f3d43253242253242266c6f676f436f6c6f723d303035393943"/>][C]
-[<img align="left" alt="Visual-Studio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>][Visual-Studio]
-[<img align="left" alt="Unity" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.icons101.com%2Ficon_png%2Fsize_256%2Fid_83185%2Funity.png&f=1&nofb=1"/>][Unity]
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![HTML](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 
 </br>
 </br>
@@ -36,4 +36,4 @@ Since I was 12 years old i've been coding in some diferent languages: **Java**, 
 [Java]: https://www.java.com/en/
 [C]: https://docs.microsoft.com/en-us/cpp/?view=msvc-160
 [Visual-Studio]: https://code.visualstudio.com/
-[Unity]: https://unity.com/
+[HTML]: https://en.wikipedia.org/wiki/HTML
