@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://sergioescacs.itch.io/" target = "blank_"><img alt="Itch.io" src="https://img.shields.io/badge/Itch.io-sergioescacs-blue?style=flat-square&logo=itch.io"></a>
+<a href="https://sergioescacs.itch.io/" target = "_blank"><img alt="Itch.io" src="https://img.shields.io/badge/Itch.io-sergioescacs-blue?style=flat-square&logo=itch.io"></a>
 <a href="https://www.codewars.com/users/sergioescacs"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-sergioescacs-blue?style=flat-square&logo=codewars"></a>
 <a href="https://www.instagram.com/von_rascher/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-von_rascher-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sergioescacs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sergioescacs@gmail.com-blue?style=flat-square&logo=gmail"></a>
